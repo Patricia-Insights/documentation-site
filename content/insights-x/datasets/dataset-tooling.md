@@ -12,7 +12,7 @@ On this page you will learn more about TravelgateX free tools to Insights-X Data
 
 # Template reportings
 
-If you don't have your own reporting tools as Tableau or PowerBI, the easiest way to interact with Insights-X datasets is via our free [Google Data Studio Templates](https://datastudio.google.com/u/0/navigation/reporting). 
+If you don't have your own BI tools as Tableau or PowerBI, the easiest way to interact with Insights-X datasets is via our free [Google Data Studio Templates](https://datastudio.google.com/u/0/navigation/reporting). 
 
 
 | Dataset          | Version          | GDS Template  |
